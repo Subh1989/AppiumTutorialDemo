@@ -57,8 +57,8 @@ public class Ecommerce_Test4 extends baseGeneral{
 	public static double getAmount(String val)
 	{
 		val = val.substring(1);
-		double val1 = Double.parseDouble(val);
-		return val1;
+		double val2 = Double.parseDouble(val);
+		return val2;
 	}
 
 }
